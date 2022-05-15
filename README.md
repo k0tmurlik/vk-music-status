@@ -16,7 +16,7 @@
 
 Команда для запуска: 
 
-        python3 main.py
+    python3 main.py
 
 **Примечания**
 
