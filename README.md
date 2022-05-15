@@ -1,12 +1,13 @@
-# Broadcast-music-in-vk-status
 ### Вечная трансляция музыки в статус вк
 
-**Как запустить?**
+---
+**Запуск скрипта**
 
-1. Зайдите в файл ***config.json*** и впишите туда свой токен и аудио (Подробнее в примечаниях)
-2. Запустите файл ***main.py***
+    git clone https://github.com/k0tmurlik/vk-music-status.git
+    cd vk-music-status
+    nano config.json
 
-Команда для запуска: `python main.py`
+Команда для запуска: `python3 main.py`
 
 **Примечания**
 
