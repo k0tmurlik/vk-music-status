@@ -14,7 +14,9 @@
 
     nano config.json
 
-Команда для запуска: `python3 main.py`
+Команда для запуска: 
+
+        python3 main.py
 
 **Примечания**
 
