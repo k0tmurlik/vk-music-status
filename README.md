@@ -2,10 +2,9 @@
 
 ---
 **Запуск скрипта**
-
-    git clone https://github.com/k0tmurlik/vk-music-status.git
-    cd vk-music-status
-    nano config.json
+    Клонирауем репозиторий: `git clone https://github.com/k0tmurlik/vk-music-status.git`</br>
+    Переходим в репозиторий: `cd vk-music-status`</br>
+    Открываем конфиг: `nano config.json`</br>
 
 Команда для запуска: `python3 main.py`
 
